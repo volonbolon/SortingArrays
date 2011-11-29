@@ -1,0 +1,1 @@
+What's faster? GCD or `NSSortDescriptor`. Compile, and you will know. 

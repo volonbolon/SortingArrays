@@ -1,0 +1,2447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Capital</key>
+		<string>Harare
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ZW</string>
+		<key>Name</key>
+		<string>Zimbabwe</string>
+		<key>UN Code</key>
+		<string>716</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Maseru
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LS</string>
+		<key>Name</key>
+		<string>Lesotho</string>
+		<key>UN Code</key>
+		<string>426</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Hanoi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VN</string>
+		<key>Name</key>
+		<string>Viet Nam</string>
+		<key>UN Code</key>
+		<string>704</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Conakry
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GN</string>
+		<key>Name</key>
+		<string>Guinea</string>
+		<key>UN Code</key>
+		<string>324</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Lilongwe
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MW</string>
+		<key>Name</key>
+		<string>Malawi</string>
+		<key>UN Code</key>
+		<string>454</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kabul
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AF</string>
+		<key>Name</key>
+		<string>Afghanistan</string>
+		<key>UN Code</key>
+		<string>004</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Asmara
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ER</string>
+		<key>Name</key>
+		<string>Eritrea</string>
+		<key>UN Code</key>
+		<string>232</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Doha
+		</string>
+		<key>ISO abbreviation</key>
+		<string>QA</string>
+		<key>Name</key>
+		<string>Qatar</string>
+		<key>UN Code</key>
+		<string>634</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Khartoum
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SD</string>
+		<key>Name</key>
+		<string>Sudan</string>
+		<key>UN Code</key>
+		<string>736</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bangui
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CF</string>
+		<key>Name</key>
+		<string>Central African Republic</string>
+		<key>UN Code</key>
+		<string>140</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Quito
+		</string>
+		<key>ISO abbreviation</key>
+		<string>EC</string>
+		<key>Name</key>
+		<string>Ecuador</string>
+		<key>UN Code</key>
+		<string>218</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Luanda
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AO</string>
+		<key>Name</key>
+		<string>Angola</string>
+		<key>UN Code</key>
+		<string>024</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Yerevan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AM</string>
+		<key>Name</key>
+		<string>Armenia</string>
+		<key>UN Code</key>
+		<string>051</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Islamabad
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PK</string>
+		<key>Name</key>
+		<string>Pakistan</string>
+		<key>UN Code</key>
+		<string>586</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tokyo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>JP</string>
+		<key>Name</key>
+		<string>Japan</string>
+		<key>UN Code</key>
+		<string>392</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Gaborone
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BW</string>
+		<key>Name</key>
+		<string>Botswana</string>
+		<key>UN Code</key>
+		<string>072</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tirana
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AL</string>
+		<key>Name</key>
+		<string>Albania</string>
+		<key>UN Code</key>
+		<string>008</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Accra
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GH</string>
+		<key>Name</key>
+		<string>Ghana</string>
+		<key>UN Code</key>
+		<string>288</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nuuk
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GL</string>
+		<key>Name</key>
+		<string>Greenland</string>
+		<key>UN Code</key>
+		<string>304</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Oranjestad
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AW</string>
+		<key>Name</key>
+		<string>Aruba</string>
+		<key>UN Code</key>
+		<string>533</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Manama
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BH</string>
+		<key>Name</key>
+		<string>Bahrain</string>
+		<key>UN Code</key>
+		<string>048</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bridgetown
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BB</string>
+		<key>Name</key>
+		<string>Barbados</string>
+		<key>UN Code</key>
+		<string>052</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>San Juan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PR</string>
+		<key>Name</key>
+		<string>Puerto Rico</string>
+		<key>UN Code</key>
+		<string>630</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Mexico City
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MX</string>
+		<key>Name</key>
+		<string>Mexico</string>
+		<key>UN Code</key>
+		<string>484</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tallinn
+		</string>
+		<key>ISO abbreviation</key>
+		<string>EE</string>
+		<key>Name</key>
+		<string>Estonia</string>
+		<key>UN Code</key>
+		<string>233</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Antananarivo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MG</string>
+		<key>Name</key>
+		<string>Madagascar</string>
+		<key>UN Code</key>
+		<string>450</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tarawa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KI</string>
+		<key>Name</key>
+		<string>Kiribati</string>
+		<key>UN Code</key>
+		<string>296</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Avarua
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CK</string>
+		<key>Name</key>
+		<string>Cook Islands</string>
+		<key>UN Code</key>
+		<string>184</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Vilnius
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LT</string>
+		<key>Name</key>
+		<string>Lithuania</string>
+		<key>UN Code</key>
+		<string>440</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Praia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CV</string>
+		<key>Name</key>
+		<string>Cape Verde</string>
+		<key>UN Code</key>
+		<string>132</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Vaduz
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LI</string>
+		<key>Name</key>
+		<string>Liechtenstein</string>
+		<key>UN Code</key>
+		<string>438</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Charlotte Amalie
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VI</string>
+		<key>Name</key>
+		<string>U. S. Virgin Islands</string>
+		<key>UN Code</key>
+		<string>850</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Addis Ababa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ET</string>
+		<key>Name</key>
+		<string>Ethiopia</string>
+		<key>UN Code</key>
+		<string>230</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>La Paz
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BO</string>
+		<key>Name</key>
+		<string>Bolivia</string>
+		<key>UN Code</key>
+		<string>068</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Georgetown
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GY</string>
+		<key>Name</key>
+		<string>Guyana</string>
+		<key>UN Code</key>
+		<string>328</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Taipei
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TW</string>
+		<key>Name</key>
+		<string>Taiwan Province of China</string>
+		<key>UN Code</key>
+		<string>158</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Yaren
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NR</string>
+		<key>Name</key>
+		<string>Nauru</string>
+		<key>UN Code</key>
+		<string>520</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Montevideo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>UY</string>
+		<key>Name</key>
+		<string>Uruguay</string>
+		<key>UN Code</key>
+		<string>858</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kathmandu
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NP</string>
+		<key>Name</key>
+		<string>Nepal</string>
+		<key>UN Code</key>
+		<string>524</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>San Salvador
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SV</string>
+		<key>Name</key>
+		<string>El Salvador</string>
+		<key>UN Code</key>
+		<string>222</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Canberra
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AU</string>
+		<key>Name</key>
+		<string>Australia</string>
+		<key>UN Code</key>
+		<string>036</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nuku?lofa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TO</string>
+		<key>Name</key>
+		<string>Tonga</string>
+		<key>UN Code</key>
+		<string>776</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tegucigalpa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>HN</string>
+		<key>Name</key>
+		<string>Honduras</string>
+		<key>UN Code</key>
+		<string>340</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tehran
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IR</string>
+		<key>Name</key>
+		<string>Islamic Republic of Iran</string>
+		<key>UN Code</key>
+		<string>364</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Stockholm
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SE</string>
+		<key>Name</key>
+		<string>Sweden</string>
+		<key>UN Code</key>
+		<string>752</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Sarajevo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BA</string>
+		<key>Name</key>
+		<string>Bosnia and Herzegovina</string>
+		<key>UN Code</key>
+		<string>070</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tunis
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TN</string>
+		<key>Name</key>
+		<string>Tunisia</string>
+		<key>UN Code</key>
+		<string>788</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Belmopan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BZ</string>
+		<key>Name</key>
+		<string>Belize</string>
+		<key>UN Code</key>
+		<string>084</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bucharest
+		</string>
+		<key>ISO abbreviation</key>
+		<string>RO</string>
+		<key>Name</key>
+		<string>Romania</string>
+		<key>UN Code</key>
+		<string>642</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Djibouti
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DJ</string>
+		<key>Name</key>
+		<string>Djibouti</string>
+		<key>UN Code</key>
+		<string>262</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bratislava
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SK</string>
+		<key>Name</key>
+		<string>Slovakia</string>
+		<key>UN Code</key>
+		<string>703</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Alofi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NU</string>
+		<key>Name</key>
+		<string>Niue</string>
+		<key>UN Code</key>
+		<string>570</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Palikir
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FM</string>
+		<key>Name</key>
+		<string>Federated States of Micronesia</string>
+		<key>UN Code</key>
+		<string>583</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Port-Vila
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VU</string>
+		<key>Name</key>
+		<string>Vanuatu</string>
+		<key>UN Code</key>
+		<string>548</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bandar Seri Begawan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BN</string>
+		<key>Name</key>
+		<string>Brunei Daraussalam</string>
+		<key>UN Code</key>
+		<string>096</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nassau
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BS</string>
+		<key>Name</key>
+		<string>Bahamas</string>
+		<key>UN Code</key>
+		<string>044</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Rabat
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MA</string>
+		<key>Name</key>
+		<string>Morocco</string>
+		<key>UN Code</key>
+		<string>504</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Minsk
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BY</string>
+		<key>Name</key>
+		<string>Belarus</string>
+		<key>UN Code</key>
+		<string>112</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Colombo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LK</string>
+		<key>Name</key>
+		<string>Sri Lanka</string>
+		<key>UN Code</key>
+		<string>144</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Saint-Denis
+		</string>
+		<key>ISO abbreviation</key>
+		<string>RE</string>
+		<key>Name</key>
+		<string>R?union</string>
+		<key>UN Code</key>
+		<string>638</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Guatemala City
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GT</string>
+		<key>Name</key>
+		<string>Guatemala</string>
+		<key>UN Code</key>
+		<string>320</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Rome
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IT</string>
+		<key>Name</key>
+		<string>Italy</string>
+		<key>UN Code</key>
+		<string>380</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Majuro
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MH</string>
+		<key>Name</key>
+		<string>Marshall Islands</string>
+		<key>UN Code</key>
+		<string>584</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Fort-de-France
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MQ</string>
+		<key>Name</key>
+		<string>Martinique</string>
+		<key>UN Code</key>
+		<string>474</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nairobi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KE</string>
+		<key>Name</key>
+		<string>Kenya</string>
+		<key>UN Code</key>
+		<string>404</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Mata-Utu
+		</string>
+		<key>ISO abbreviation</key>
+		<string>WF</string>
+		<key>Name</key>
+		<string>Wallis and Futuna Islands</string>
+		<key>UN Code</key>
+		<string>876</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Funafuti
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TV</string>
+		<key>Name</key>
+		<string>Tuvalu</string>
+		<key>UN Code</key>
+		<string>798</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Sanaa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>YE</string>
+		<key>Name</key>
+		<string>Yemen</string>
+		<key>UN Code</key>
+		<string>887</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Gibraltar
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GI</string>
+		<key>Name</key>
+		<string>Gibraltar</string>
+		<key>UN Code</key>
+		<string>292</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Banjul
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GM</string>
+		<key>Name</key>
+		<string>Gambia</string>
+		<key>UN Code</key>
+		<string>270</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tashkent
+		</string>
+		<key>ISO abbreviation</key>
+		<string>UZ</string>
+		<key>Name</key>
+		<string>Uzbekistan</string>
+		<key>UN Code</key>
+		<string>860</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Lima
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PE</string>
+		<key>Name</key>
+		<string>Peru</string>
+		<key>UN Code</key>
+		<string>604</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Valletta
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MT</string>
+		<key>Name</key>
+		<string>Malta</string>
+		<key>UN Code</key>
+		<string>470</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Yaound?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CM</string>
+		<key>Name</key>
+		<string>Cameroon</string>
+		<key>UN Code</key>
+		<string>120</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>St.-Pierre
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PM</string>
+		<key>Name</key>
+		<string>Saint Pierre and Miquelon</string>
+		<key>UN Code</key>
+		<string>666</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Freetown
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SL</string>
+		<key>Name</key>
+		<string>Sierra Leone</string>
+		<key>UN Code</key>
+		<string>694</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Roseau
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DM</string>
+		<key>Name</key>
+		<string>Dominica</string>
+		<key>UN Code</key>
+		<string>212</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kiev
+		</string>
+		<key>ISO abbreviation</key>
+		<string>UA</string>
+		<key>Name</key>
+		<string>Ukraine</string>
+		<key>UN Code</key>
+		<string>804</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Singapore City
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SG</string>
+		<key>Name</key>
+		<string>Singapore</string>
+		<key>UN Code</key>
+		<string>702</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Baghdad
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IQ</string>
+		<key>Name</key>
+		<string>Iraq</string>
+		<key>UN Code</key>
+		<string>368</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Moroni
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KM</string>
+		<key>Name</key>
+		<string>Comoros</string>
+		<key>UN Code</key>
+		<string>174</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Niamey
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NE</string>
+		<key>Name</key>
+		<string>Niger</string>
+		<key>UN Code</key>
+		<string>562</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Managua
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NI</string>
+		<key>Name</key>
+		<string>Nicaragua</string>
+		<key>UN Code</key>
+		<string>558</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>St. George's
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GD</string>
+		<key>Name</key>
+		<string>Grenada</string>
+		<key>UN Code</key>
+		<string>308</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Paris
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FR</string>
+		<key>Name</key>
+		<string>France</string>
+		<key>UN Code</key>
+		<string>250</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Jamestown
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SH</string>
+		<key>Name</key>
+		<string>Saint Helena</string>
+		<key>UN Code</key>
+		<string>654</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Paramaribo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SR</string>
+		<key>Name</key>
+		<string>Suriname</string>
+		<key>UN Code</key>
+		<string>740</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Lom?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TG</string>
+		<key>Name</key>
+		<string>Togo</string>
+		<key>UN Code</key>
+		<string>768</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Papeete
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PF</string>
+		<key>Name</key>
+		<string>French Polynesia</string>
+		<key>UN Code</key>
+		<string>258</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Willemstad
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AN</string>
+		<key>Name</key>
+		<string>Netherlands Antilles</string>
+		<key>UN Code</key>
+		<string>530</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Mal?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MV</string>
+		<key>Name</key>
+		<string>Maldives</string>
+		<key>UN Code</key>
+		<string>462</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ottawa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CA</string>
+		<key>Name</key>
+		<string>Canada</string>
+		<key>UN Code</key>
+		<string>124</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Sofia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BG</string>
+		<key>Name</key>
+		<string>Bulgaria</string>
+		<key>UN Code</key>
+		<string>100</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Budapest
+		</string>
+		<key>ISO abbreviation</key>
+		<string>HU</string>
+		<key>Name</key>
+		<string>Hungary</string>
+		<key>UN Code</key>
+		<string>348</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Yamoussoukro
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CI</string>
+		<key>Name</key>
+		<string>Cote d'Ivoire</string>
+		<key>UN Code</key>
+		<string>384</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Buenos Aires
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AR</string>
+		<key>Name</key>
+		<string>Argentina</string>
+		<key>UN Code</key>
+		<string>032</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bujumbura
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BI</string>
+		<key>Name</key>
+		<string>Burundi</string>
+		<key>UN Code</key>
+		<string>108</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>The Valley
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AI</string>
+		<key>Name</key>
+		<string>Anguilla</string>
+		<key>UN Code</key>
+		<string>660</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Victoria
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SC</string>
+		<key>Name</key>
+		<string>Seychelles</string>
+		<key>UN Code</key>
+		<string>690</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kampala
+		</string>
+		<key>ISO abbreviation</key>
+		<string>UG</string>
+		<key>Name</key>
+		<string>Uganda</string>
+		<key>UN Code</key>
+		<string>800</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Astana
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KZ</string>
+		<key>Name</key>
+		<string>Kazakhstan</string>
+		<key>UN Code</key>
+		<string>398</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>St. John's
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AG</string>
+		<key>Name</key>
+		<string>Antigua and Barbuda</string>
+		<key>UN Code</key>
+		<string>028</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Reykjavik
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IS</string>
+		<key>Name</key>
+		<string>Iceland</string>
+		<key>UN Code</key>
+		<string>352</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bishkek
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KG</string>
+		<key>Name</key>
+		<string>Kyrgyzstan</string>
+		<key>UN Code</key>
+		<string>417</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kigali
+		</string>
+		<key>ISO abbreviation</key>
+		<string>RW</string>
+		<key>Name</key>
+		<string>Rwanda</string>
+		<key>UN Code</key>
+		<string>646</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Port-of-Spain
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TT</string>
+		<key>Name</key>
+		<string>Trinidad and Tobago</string>
+		<key>UN Code</key>
+		<string>780</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Washington
+		</string>
+		<key>ISO abbreviation</key>
+		<string>US</string>
+		<key>Name</key>
+		<string>United States</string>
+		<key>UN Code</key>
+		<string>840</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Dodoma
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TZ</string>
+		<key>Name</key>
+		<string>United Republic of Tanzania</string>
+		<key>UN Code</key>
+		<string>834</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ljubljana
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SI</string>
+		<key>Name</key>
+		<string>Slovenia</string>
+		<key>UN Code</key>
+		<string>705</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Adamston
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PN</string>
+		<key>Name</key>
+		<string>Pitcairn</string>
+		<key>UN Code</key>
+		<string>612</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kingstown
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VC</string>
+		<key>Name</key>
+		<string>Saint Vincent and the Grenadines</string>
+		<key>UN Code</key>
+		<string>670</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Vatican City
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VA</string>
+		<key>Name</key>
+		<string>Holy See (Vatican City State)</string>
+		<key>UN Code</key>
+		<string>336</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Castries
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LC</string>
+		<key>Name</key>
+		<string>Saint Lucia</string>
+		<key>UN Code</key>
+		<string>662</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Port Moresby
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PG</string>
+		<key>Name</key>
+		<string>Papua New Guinea</string>
+		<key>UN Code</key>
+		<string>598</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Lusaka</string>
+		<key>ISO abbreviation</key>
+		<string>ZM</string>
+		<key>Name</key>
+		<string>Zambia</string>
+		<key>UN Code</key>
+		<string>894</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Viangchan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LA</string>
+		<key>Name</key>
+		<string>Lao People's Democratic Republic</string>
+		<key>UN Code</key>
+		<string>418</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Riyadh
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SA</string>
+		<key>Name</key>
+		<string>Saudi Arabia</string>
+		<key>UN Code</key>
+		<string>682</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Santo Domingo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DO</string>
+		<key>Name</key>
+		<string>Dominican Republic</string>
+		<key>UN Code</key>
+		<string>214</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tbilisi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GE</string>
+		<key>Name</key>
+		<string>Georgia</string>
+		<key>UN Code</key>
+		<string>268</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Brasilia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BR</string>
+		<key>Name</key>
+		<string>Brazil</string>
+		<key>UN Code</key>
+		<string>076</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Prague
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CZ</string>
+		<key>Name</key>
+		<string>Czech Republic</string>
+		<key>UN Code</key>
+		<string>203</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Abuja
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NG</string>
+		<key>Name</key>
+		<string>Nigeria</string>
+		<key>UN Code</key>
+		<string>566</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Cayenne
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GF</string>
+		<key>Name</key>
+		<string>French Guiana</string>
+		<key>UN Code</key>
+		<string>254</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Algiers
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DZ</string>
+		<key>Name</key>
+		<string>Algeria</string>
+		<key>UN Code</key>
+		<string>012</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Helsinki
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FI</string>
+		<key>Name</key>
+		<string>Finland</string>
+		<key>UN Code</key>
+		<string>246</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Apia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>WS</string>
+		<key>Name</key>
+		<string>Samoa</string>
+		<key>UN Code</key>
+		<string>882</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Port Louis
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MU</string>
+		<key>Name</key>
+		<string>Mauritius</string>
+		<key>UN Code</key>
+		<string>480</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Hamilton
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BM</string>
+		<key>Name</key>
+		<string>Bermuda</string>
+		<key>UN Code</key>
+		<string>060</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Mbabane
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SZ</string>
+		<key>Name</key>
+		<string>Swaziland</string>
+		<key>UN Code</key>
+		<string>748</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Monaco-ville
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MC</string>
+		<key>Name</key>
+		<string>Monaco</string>
+		<key>UN Code</key>
+		<string>492</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>S?o Tom?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ST</string>
+		<key>Name</key>
+		<string>S?o Tom? and Principe</string>
+		<key>UN Code</key>
+		<string>678</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Road Town
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VG</string>
+		<key>Name</key>
+		<string>British Virgin Islands</string>
+		<key>UN Code</key>
+		<string>092</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ulan Bator
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MN</string>
+		<key>Name</key>
+		<string>Mongolia</string>
+		<key>UN Code</key>
+		<string>496</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Lisbon
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PT</string>
+		<key>Name</key>
+		<string>Portugal</string>
+		<key>UN Code</key>
+		<string>620</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Brazzaville
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CG</string>
+		<key>Name</key>
+		<string>Congo</string>
+		<key>UN Code</key>
+		<string>178</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bissau
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GW</string>
+		<key>Name</key>
+		<string>Guinea-Bissau</string>
+		<key>UN Code</key>
+		<string>624</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Monrovia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LR</string>
+		<key>Name</key>
+		<string>Liberia</string>
+		<key>UN Code</key>
+		<string>430</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Maputo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MZ</string>
+		<key>Name</key>
+		<string>Mozambique</string>
+		<key>UN Code</key>
+		<string>508</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Zagreb
+		</string>
+		<key>ISO abbreviation</key>
+		<string>HR</string>
+		<key>Name</key>
+		<string>Croatia</string>
+		<key>UN Code</key>
+		<string>191</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Panama City
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PA</string>
+		<key>Name</key>
+		<string>Panama</string>
+		<key>UN Code</key>
+		<string>591</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Malabo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GQ</string>
+		<key>Name</key>
+		<string>Equatorial Guinea</string>
+		<key>UN Code</key>
+		<string>226</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kuwait
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KW</string>
+		<key>Name</key>
+		<string>Kuwait</string>
+		<key>UN Code</key>
+		<string>414</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Riga
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LV</string>
+		<key>Name</key>
+		<string>Latvia</string>
+		<key>UN Code</key>
+		<string>428</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Berlin
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DE</string>
+		<key>Name</key>
+		<string>Germany</string>
+		<key>UN Code</key>
+		<string>276</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ankara
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TR</string>
+		<key>Name</key>
+		<string>Turkey</string>
+		<key>UN Code</key>
+		<string>792</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Longyearbyen
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SJ</string>
+		<key>Name</key>
+		<string>Svalbard and Jan Mayen Islands</string>
+		<key>UN Code</key>
+		<string>744</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Basseterre
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KN</string>
+		<key>Name</key>
+		<string>Saint Kitts and Nevis</string>
+		<key>UN Code</key>
+		<string>659</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Andorra la Vella
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AD</string>
+		<key>Name</key>
+		<string>Andorra</string>
+		<key>UN Code</key>
+		<string>020</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Mogadishu
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SO</string>
+		<key>Name</key>
+		<string>Somalia</string>
+		<key>UN Code</key>
+		<string>706</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Cockburn Town
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TC</string>
+		<key>Name</key>
+		<string>Turks and Caicos Islands</string>
+		<key>UN Code</key>
+		<string>796</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Moscow
+		</string>
+		<key>ISO abbreviation</key>
+		<string>RU</string>
+		<key>Name</key>
+		<string>Russian Federation</string>
+		<key>UN Code</key>
+		<string>643</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Damascus
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SY</string>
+		<key>Name</key>
+		<string>Syrian Arab Republic</string>
+		<key>UN Code</key>
+		<string>760</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>New Delhi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IN</string>
+		<key>Name</key>
+		<string>India</string>
+		<key>UN Code</key>
+		<string>356</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Saipan
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MP</string>
+		<key>Name</key>
+		<string>Northern Mariana Islands</string>
+		<key>UN Code</key>
+		<string>580</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Windhoek
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NA</string>
+		<key>Name</key>
+		<string>Namibia</string>
+		<key>UN Code</key>
+		<string>516</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>San Marino
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SM</string>
+		<key>Name</key>
+		<string>San Marino</string>
+		<key>UN Code</key>
+		<string>674</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Basse-Terre
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GP</string>
+		<key>Name</key>
+		<string>Guadeloupe</string>
+		<key>UN Code</key>
+		<string>312</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Athens
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GR</string>
+		<key>Name</key>
+		<string>Greece</string>
+		<key>UN Code</key>
+		<string>300</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Vienna
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AT</string>
+		<key>Name</key>
+		<string>Austria</string>
+		<key>UN Code</key>
+		<string>040</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ashgabat
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TM</string>
+		<key>Name</key>
+		<string>Turkmenistan</string>
+		<key>UN Code</key>
+		<string>795</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bamako
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ML</string>
+		<key>Name</key>
+		<string>Mali</string>
+		<key>UN Code</key>
+		<string>466</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Jerusalem
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IL</string>
+		<key>Name</key>
+		<string>Israel</string>
+		<key>UN Code</key>
+		<string>376</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Jakarta
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ID</string>
+		<key>Name</key>
+		<string>Indonesia</string>
+		<key>UN Code</key>
+		<string>360</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>N'Djamena
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TD</string>
+		<key>Name</key>
+		<string>Chad</string>
+		<key>UN Code</key>
+		<string>148</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Copenhagen
+		</string>
+		<key>ISO abbreviation</key>
+		<string>DK</string>
+		<key>Name</key>
+		<string>Denmark</string>
+		<key>UN Code</key>
+		<string>208</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Madrid
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ES</string>
+		<key>Name</key>
+		<string>Spain</string>
+		<key>UN Code</key>
+		<string>724</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Wellington
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NZ</string>
+		<key>Name</key>
+		<string>New Zealand</string>
+		<key>UN Code</key>
+		<string>554</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Havana
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CU</string>
+		<key>Name</key>
+		<string>Cuba</string>
+		<key>UN Code</key>
+		<string>192</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Luxembourg
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LU</string>
+		<key>Name</key>
+		<string>Luxembourg</string>
+		<key>UN Code</key>
+		<string>442</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Ouagadougou
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BF</string>
+		<key>Name</key>
+		<string>Burkina Faso</string>
+		<key>UN Code</key>
+		<string>854</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Amsterdam; The Hague
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NL</string>
+		<key>Name</key>
+		<string>Netherlands</string>
+		<key>UN Code</key>
+		<string>528</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Plymouth
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MS</string>
+		<key>Name</key>
+		<string>Montserrat</string>
+		<key>UN Code</key>
+		<string>500</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Caracas
+		</string>
+		<key>ISO abbreviation</key>
+		<string>VE</string>
+		<key>Name</key>
+		<string>Venezuela</string>
+		<key>UN Code</key>
+		<string>862</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Dublin
+		</string>
+		<key>ISO abbreviation</key>
+		<string>IE</string>
+		<key>Name</key>
+		<string>Ireland</string>
+		<key>UN Code</key>
+		<string>372</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Amman
+		</string>
+		<key>ISO abbreviation</key>
+		<string>JO</string>
+		<key>Name</key>
+		<string>Jordan</string>
+		<key>UN Code</key>
+		<string>400</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Honiara
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SB</string>
+		<key>Name</key>
+		<string>Solomon Islands</string>
+		<key>UN Code</key>
+		<string>090</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Belgrade
+		</string>
+		<key>ISO abbreviation</key>
+		<string>YU</string>
+		<key>Name</key>
+		<string>Yugoslavia</string>
+		<key>UN Code</key>
+		<string>891</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Dakar
+		</string>
+		<key>ISO abbreviation</key>
+		<string>SN</string>
+		<key>Name</key>
+		<string>Senegal</string>
+		<key>UN Code</key>
+		<string>686</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Warsaw
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PL</string>
+		<key>Name</key>
+		<string>Poland</string>
+		<key>UN Code</key>
+		<string>616</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Baku
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AZ</string>
+		<key>Name</key>
+		<string>Azerbaijan</string>
+		<key>UN Code</key>
+		<string>031</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Skopje
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MK</string>
+		<key>Name</key>
+		<string>The former Yugoslav Republic of Macedonia</string>
+		<key>UN Code</key>
+		<string>807</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Santiago
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CL</string>
+		<key>Name</key>
+		<string>Chile</string>
+		<key>UN Code</key>
+		<string>152</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Muscat
+		</string>
+		<key>ISO abbreviation</key>
+		<string>OM</string>
+		<key>Name</key>
+		<string>Oman</string>
+		<key>UN Code</key>
+		<string>512</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nouakchott
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MR</string>
+		<key>Name</key>
+		<string>Mauritania</string>
+		<key>UN Code</key>
+		<string>478</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kingston
+		</string>
+		<key>ISO abbreviation</key>
+		<string>JM</string>
+		<key>Name</key>
+		<string>Jamaica</string>
+		<key>UN Code</key>
+		<string>388</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>George Town
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KY</string>
+		<key>Name</key>
+		<string>Cayman Islands</string>
+		<key>UN Code</key>
+		<string>136</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>London
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GB</string>
+		<key>Name</key>
+		<string>United Kingdom</string>
+		<key>UN Code</key>
+		<string>826</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kuala Lumpur
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MY</string>
+		<key>Name</key>
+		<string>Malaysia</string>
+		<key>UN Code</key>
+		<string>458</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Brussels
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BE</string>
+		<key>Name</key>
+		<string>Belgium</string>
+		<key>UN Code</key>
+		<string>056</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Porto-Novo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BJ</string>
+		<key>Name</key>
+		<string>Benin</string>
+		<key>UN Code</key>
+		<string>204</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Beijing
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CN</string>
+		<key>Name</key>
+		<string>China</string>
+		<key>UN Code</key>
+		<string>156</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Aga?a
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GU</string>
+		<key>Name</key>
+		<string>Guam</string>
+		<key>UN Code</key>
+		<string>316</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Manila
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PH</string>
+		<key>Name</key>
+		<string>Philippines</string>
+		<key>UN Code</key>
+		<string>608</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Chisinau
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MD</string>
+		<key>Name</key>
+		<string>Moldova</string>
+		<key>UN Code</key>
+		<string>498</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Phnom Penh
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KH</string>
+		<key>Name</key>
+		<string>Cambodia</string>
+		<key>UN Code</key>
+		<string>116</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Stanley
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FK</string>
+		<key>Name</key>
+		<string>Falkland Islands (Malvinas)</string>
+		<key>UN Code</key>
+		<string>238</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bangkok
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TH</string>
+		<key>Name</key>
+		<string>Thailand</string>
+		<key>UN Code</key>
+		<string>764</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Koror
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PW</string>
+		<key>Name</key>
+		<string>Palau</string>
+		<key>UN Code</key>
+		<string>585</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Seoul
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KR</string>
+		<key>Name</key>
+		<string>Republic of Korea</string>
+		<key>UN Code</key>
+		<string>410</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>T?rshavn
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FO</string>
+		<key>Name</key>
+		<string>Faroe Islands</string>
+		<key>UN Code</key>
+		<string>234</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Pyongyang
+		</string>
+		<key>ISO abbreviation</key>
+		<string>KP</string>
+		<key>Name</key>
+		<string>Democratic People's Republic of Korea</string>
+		<key>UN Code</key>
+		<string>408</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kingston
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NF</string>
+		<key>Name</key>
+		<string>Norfolk Island</string>
+		<key>UN Code</key>
+		<string>574</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Kinshasa
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CD</string>
+		<key>Name</key>
+		<string>The Democratic Republic of the Congo</string>
+		<key>UN Code</key>
+		<string>180</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Pretoria (administrative) Cape Town (legislative)
+		</string>
+		<key>ISO abbreviation</key>
+		<string>ZA</string>
+		<key>Name</key>
+		<string>South Africa</string>
+		<key>UN Code</key>
+		<string>710</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Oslo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NO</string>
+		<key>Name</key>
+		<string>Norway</string>
+		<key>UN Code</key>
+		<string>578</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bern
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CH</string>
+		<key>Name</key>
+		<string>Switzerland</string>
+		<key>UN Code</key>
+		<string>756</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Bogot?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CO</string>
+		<key>Name</key>
+		<string>Colombia</string>
+		<key>UN Code</key>
+		<string>170</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Suva
+		</string>
+		<key>ISO abbreviation</key>
+		<string>FJ</string>
+		<key>Name</key>
+		<string>Fiji</string>
+		<key>UN Code</key>
+		<string>242</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Cairo
+		</string>
+		<key>ISO abbreviation</key>
+		<string>EG</string>
+		<key>Name</key>
+		<string>Egypt</string>
+		<key>UN Code</key>
+		<string>818</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Asunci?n
+		</string>
+		<key>ISO abbreviation</key>
+		<string>PY</string>
+		<key>Name</key>
+		<string>Paraguay</string>
+		<key>UN Code</key>
+		<string>600</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Tripoli
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LY</string>
+		<key>Name</key>
+		<string>Libyan Arab Jamahiriya</string>
+		<key>UN Code</key>
+		<string>434</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Libreville
+		</string>
+		<key>ISO abbreviation</key>
+		<string>GA</string>
+		<key>Name</key>
+		<string>Gabon</string>
+		<key>UN Code</key>
+		<string>266</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Thimphu
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BT</string>
+		<key>Name</key>
+		<string>Bhutan</string>
+		<key>UN Code</key>
+		<string>064</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Noum?a
+		</string>
+		<key>ISO abbreviation</key>
+		<string>NC</string>
+		<key>Name</key>
+		<string>New Caledonia</string>
+		<key>UN Code</key>
+		<string>540</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Abu Dhabi
+		</string>
+		<key>ISO abbreviation</key>
+		<string>AE</string>
+		<key>Name</key>
+		<string>United Arab Emirates</string>
+		<key>UN Code</key>
+		<string>784</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Nicosia
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CY</string>
+		<key>Name</key>
+		<string>Cyprus</string>
+		<key>UN Code</key>
+		<string>196</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Dushanbe
+		</string>
+		<key>ISO abbreviation</key>
+		<string>TJ</string>
+		<key>Name</key>
+		<string>Tajikistan</string>
+		<key>UN Code</key>
+		<string>762</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>San Jos?
+		</string>
+		<key>ISO abbreviation</key>
+		<string>CR</string>
+		<key>Name</key>
+		<string>Costa Rica</string>
+		<key>UN Code</key>
+		<string>188</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Rangoon
+		</string>
+		<key>ISO abbreviation</key>
+		<string>MM</string>
+		<key>Name</key>
+		<string>Myanmar</string>
+		<key>UN Code</key>
+		<string>104</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Port-au-Prince
+		</string>
+		<key>ISO abbreviation</key>
+		<string>HT</string>
+		<key>Name</key>
+		<string>Haiti</string>
+		<key>UN Code</key>
+		<string>332</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Dhaka
+		</string>
+		<key>ISO abbreviation</key>
+		<string>BD</string>
+		<key>Name</key>
+		<string>Bangladesh</string>
+		<key>UN Code</key>
+		<string>050</string>
+	</dict>
+	<dict>
+		<key>Capital</key>
+		<string>Beirut
+		</string>
+		<key>ISO abbreviation</key>
+		<string>LB</string>
+		<key>Name</key>
+		<string>Lebanon</string>
+		<key>UN Code</key>
+		<string>422</string>
+	</dict>
+</array>
+</plist>
